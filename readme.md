@@ -19,9 +19,9 @@ Samples and resources about async, threading in .Net
 
 # Configure Await
 
-# Thread Pool
+## Thread Pool
 
-# Thread
+## Thread
 
 
 # Async Stream && IEnumerableAsync
