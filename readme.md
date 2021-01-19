@@ -1,14 +1,17 @@
+
+# .Net Async Resources
+
 Samples and resources about async, threading in .Net
 
 - [.Net Async Resources](#.net-async-resources)
-  - [Async & Await](#support)
-  - [Configure Await](#prerequisites)
-  - [Thread Pool](#project-configuration)
-  - [Thread](#routing)
-  - [Async Stream && IEnumerableAsync](#routing)
+  - [Async & Await](#async-&-await)
+  - [Configure Await](#configure-await)
+  - [Thread Pool](#thread-pool)
+  - [Thread](#thread)
+  - [Async Stream & IEnumerableAsync](#async-stream-&-iEnumerableAsync)
     - [Links](#links)
 
-# Async & Await
+## Async & Await
 
 ### Links
 
@@ -17,14 +20,14 @@ Samples and resources about async, threading in .Net
 [Async return types (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/async-return-types)
 
 
-# Configure Await
+## Configure Await
 
 ## Thread Pool
 
 ## Thread
 
 
-# Async Stream && IEnumerableAsync
+## Async Stream & IEnumerableAsync
 
 ### Links
 [Use streaming in ASP.NET Core SignalR](https://docs.microsoft.com/en-us/aspnet/core/signalr/streaming?view=aspnetcore-5.0)
@@ -40,7 +43,7 @@ Samples and resources about async, threading in .Net
 [Asynchronous streams in C# 8.0](https://blog.miguelbernard.com/asynchronous-streams)
 
 
-# Iterators
+## Iterators
 
 ### Links
 
@@ -58,7 +61,7 @@ Samples and resources about async, threading in .Net
 
 
 
-# Channel
+## Channel
 
 ### Videos
 
