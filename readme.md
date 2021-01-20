@@ -1,7 +1,7 @@
 
 # .Net Async Resources
 
-Samples and resources about async, threading in .Net
+In this Repository, I will collect useful samples and resources about async, threading, and channel in .Net
 
 - [.Net Async Resources](#.net-async-resources)
   - [Async & Await](#async-&-await)
@@ -65,7 +65,7 @@ Samples and resources about async, threading in .Net
 
 ### Videos
 
-[C# Channels Explained (System.Threading.Channels)](https://www.youtube.com/watch?v=E0Ld7ZgE4oY)
+[C# Channels Explained (System.Threading.Channels)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=E0Ld7ZgE4oY)
 
 [Working with Channels in .NET](https://channel9.msdn.com/Shows/On-NET/Working-with-Channels-in-NET)
 
