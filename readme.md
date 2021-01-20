@@ -23,6 +23,8 @@ In this Repository, I will collect useful samples and resources about async, thr
 
 ## Configure Await
 
+[ConfigureAwait FAQ - Stephen Toub](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
+
 ## Thread Pool
 
 ## Thread
@@ -71,6 +73,8 @@ In this Repository, I will collect useful samples and resources about async, thr
 [Working with Channels in .NET](https://channel9.msdn.com/Shows/On-NET/Working-with-Channels-in-NET)
 
 ### Links
+
+[An Introduction to System.Threading.Channels - Stephen Toub](https://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/)
 
 [An Introduction to System.Threading.Channels](https://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/)
 
