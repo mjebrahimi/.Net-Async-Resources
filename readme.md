@@ -1,5 +1,6 @@
 
 # .Net Async Resources
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 In this Repository, I will collect useful samples and resources about async, threading, and channel in .Net
 
