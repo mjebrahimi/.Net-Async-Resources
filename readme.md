@@ -2,15 +2,30 @@
 # .Net Async Resources
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-In this Repository, I will collect useful samples and resources about async, threading, and channel in .Net
+Useful samples and resources about async, threading, and channel in .Net platform. this repository will update continuously, keep yourself up to date :)
+
+# Contribution
+
+Contributions are always welcome! Thanks to all contributors, you're awesome and wouldn't be possible without you! The goal is to build a categorized collection of very well-known resources.
+
+# Table of Contents
 
 - [.Net Async Resources](#.net-async-resources)
   - [Async & Await](#async-&-await)
-  - [Configure Await](#configure-await)
-  - [Thread Pool](#thread-pool)
-  - [Thread](#thread)
-  - [Async Stream & IEnumerableAsync](#async-stream-&-iEnumerableAsync)
     - [Links](#links)
+  - [Configure Await](#configure-await)
+    - [Links](#links)
+  - [Thread Pool](#thread-pool)
+    - [Links](#links)
+  - [Thread](#thread)
+    - [Links](#links)
+  - [Async Stream & IEnumerableAsync](#async-stream-&-iEnumerableAsync)
+    - [Links](#links)  
+  - [Iterators](#Iterators)
+    - [Links](#links)
+  - [Channels](#Channels)
+    - [Links](#links)
+	- [Videos](#Videos)
 
 ## Async & Await
 
@@ -23,9 +38,13 @@ In this Repository, I will collect useful samples and resources about async, thr
 
 ## Configure Await
 
+### Links
+
 [ConfigureAwait FAQ - Stephen Toub](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
 
+
 ## Thread Pool
+
 
 ## Thread
 
@@ -63,8 +82,7 @@ In this Repository, I will collect useful samples and resources about async, thr
 [IEnumerable<T> Interface](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1?view=net-5.0)
 
 
-
-## Channel
+## Channels
 
 ### Videos
 
