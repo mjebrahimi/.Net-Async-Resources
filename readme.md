@@ -2,7 +2,7 @@
 # .Net Async Resources
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-Useful samples and resources about async, threading, and channel in .Net platform. this repository will update continuously, keep yourself up to date :)
+Useful resources about async, threading, and channel in .Net platform. this repository will update continuously, keep yourself up to date :)
 
 # Contribution
 
