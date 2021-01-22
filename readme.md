@@ -41,7 +41,7 @@ Contributions are always welcome! Thanks to all contributors, you're awesome and
 - [Task asynchronous programming model](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/task-asynchronous-programming-model)
 - [Async return types (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/async-return-types)
 - [When to Use Async and Await and How it Works](https://hamidmosalla.com/2018/03/30/when-to-use-async-and-await-and-how-it-works/)
-- [Async return types (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/async-return-types)
+
 
 ## Cancellation
 
