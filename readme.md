@@ -32,10 +32,80 @@ Contributions are always welcome! Thanks to all contributors, you're awesome and
 ## Async & Await
 
 ### Links
-
+- [Async Overview](https://docs.microsoft.com/en-us/dotnet/standard/async)
+- [Async in depth](https://docs.microsoft.com/en-us/dotnet/standard/async-in-depth)
+- [Asynchronous programming patterns](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/)
+- [Task-based asynchronous pattern - TAP](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/task-based-asynchronous-pattern-tap)
+- [Event-based Asynchronous Pattern - EAP](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/event-based-asynchronous-pattern-overview)
+- [Asynchronous Programming Model - APM](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/asynchronous-programming-model-apm)
 - [Task asynchronous programming model](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/task-asynchronous-programming-model)
-
 - [Async return types (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/async-return-types)
+- [When to Use Async and Await and How it Works](https://hamidmosalla.com/2018/03/30/when-to-use-async-and-await-and-how-it-works/)
+- [Async return types (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/async-return-types)
+
+## Cancellation
+
+### Links
+
+- [Task cancellation in C# and things you should know about it](https://binary-studio.com/2015/10/23/task-cancellation-in-c-and-things-you-should-know-about-it)
+- [Cancel asynchronous operation in csharp](https://johnthiriet.com/cancel-asynchronous-operation-in-csharp/)
+- [Aborting Thread Vs Cancelling Task](https://www.c-sharpcorner.com/article/aborting-thread-vs-cancelling-task/)
+- [Task cancellation](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/task-cancellation)
+- [Cancellation in Managed Threads](https://docs.microsoft.com/en-us/dotnet/standard/threading/cancellation-in-managed-threads)
+- [Destroying threads](https://docs.microsoft.com/en-us/dotnet/standard/threading/destroying-threads)
+- [How to: Cancel a Task and Its Children](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/how-to-cancel-a-task-and-its-children)
+- [Using CancellationTokens in ASP.NET Core MVC controllers](https://andrewlock.net/using-cancellationtokens-in-asp-net-core-mvc-controllers/)
+
+### Samples
+
+- [https://github.com/johnthiriet/AsyncTips](https://github.com/johnthiriet/AsyncTips)
+
+
+## I/O-Bound
+
+### Links
+
+- [Deeper Dive into Tasks for an I/O-Bound Operation](https://docs.microsoft.com/en-us/dotnet/standard/async-in-depth#deeper-dive-into-tasks-for-an-io-bound-operation)
+- [I/O-bound tasks](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/implementing-the-task-based-asynchronous-pattern#io-bound-tasks)
+- [Using TaskCompletionSource to change the semantics of async calls](http://vannevel.net/posts/using-taskcompletionsource-to-change-the-semantics-of-async-calls/)
+- [Task.Run Etiquette and Proper Usage](https://blog.stephencleary.com/2013/10/taskrun-etiquette-and-proper-usage.html)
+- [Why you shouldn’t create asynchronous wrappers with Task.Run()](https://www.ben-morris.com/why-you-shouldnt-create-asynchronous-wrappers-with-task-run/)
+- [Should I expose asynchronous wrappers for synchronous methods?](https://devblogs.microsoft.com/pfxteam/should-i-expose-asynchronous-wrappers-for-synchronous-methods/)
+- [TaskCompletionSource in real life (part 1 of 2)](https://www.fmork.net/software/writing/2012/TaskCompletionSource-in-real-life-(part-1-of-2).htm)
+- [TaskCompletionSource in real life (part 2 of 2)](https://www.fmork.net/software/writing/2012/TaskCompletionSource-in-real-life-(part-2-of-2).htm)
+- [Asynchronous file access (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/using-async-for-file-access)
+- [Task.Run Vs TaskCompletionSource Vs Task.Factory.FromAsync](https://hamidmosalla.com/2018/05/27/task-run-vs-taskcompletionsource-vs-task-factory-fromasync/)
+- [C# : TASK PARALLEL LIBRARY (TPL) WITH ASYNC AWAIT AND TASKCOMPLETIONSOURCE FOR ASYNC I/O OPERATIONS](https://www.techblogcity.com/2019/06/05/task-parallel-library-with-async-await-and-taskcompletionsource/)
+- [There Is No Thread](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)
+- [Wrapping Other Asynchronous Patterns in Awaitable Tasks](https://www.damirscorner.com/blog/posts/20130722-WrappingOtherAsynchronousPatternsInAwaitableTasks.html)
+- [Task.Factory.StartNew vs Task.Factory.FromAsync](https://stackoverflow.com/questions/17432306/task-factory-startnew-vs-task-factory-fromasync)
+
+
+## Cpu-Bound
+
+### Links
+
+- [Deeper Dive into Task and Task<T> for a CPU-Bound Operation](https://docs.microsoft.com/en-us/dotnet/standard/async-in-depth#deeper-dive-into-task-and-taskt-for-a-cpu-bound-operation)
+- [Compute-bound tasks](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/implementing-the-task-based-asynchronous-pattern#compute-bound-tasks)
+- [Task.Run Etiquette and Proper Usage](https://blog.stephencleary.com/2013/10/taskrun-etiquette-and-proper-usage.html)
+- [Should I expose asynchronous wrappers for synchronous methods?](https://devblogs.microsoft.com/pfxteam/should-i-expose-asynchronous-wrappers-for-synchronous-methods/)
+- [Task.Run Vs TaskCompletionSource Vs Task.Factory.FromAsync](https://hamidmosalla.com/2018/05/27/task-run-vs-taskcompletionsource-vs-task-factory-fromasync/)
+
+
+## TaskCompletionSource
+
+###Links
+
+- [Should I expose asynchronous wrappers for synchronous methods?](https://devblogs.microsoft.com/pfxteam/should-i-expose-asynchronous-wrappers-for-synchronous-methods/)
+- [Using TaskCompletionSource to change the semantics of async calls](http://vannevel.net/posts/using-taskcompletionsource-to-change-the-semantics-of-async-calls/)
+- [TaskCompletionSource in real life (part 1 of 2)](https://www.fmork.net/software/writing/2012/TaskCompletionSource-in-real-life-(part-1-of-2).htm)
+- [TaskCompletionSource in real life (part 2 of 2)](https://www.fmork.net/software/writing/2012/TaskCompletionSource-in-real-life-(part-2-of-2).htm)
+- [C# : TASK PARALLEL LIBRARY (TPL) WITH ASYNC AWAIT AND TASKCOMPLETIONSOURCE FOR ASYNC I/O OPERATIONS](https://www.techblogcity.com/2019/06/05/task-parallel-library-with-async-await-and-taskcompletionsource/)
+- [Task.Run Vs TaskCompletionSource Vs Task.Factory.FromAsync](https://hamidmosalla.com/2018/05/27/task-run-vs-taskcompletionsource-vs-task-factory-fromasync/)
+- [The Nature of TaskCompletionSource](https://devblogs.microsoft.com/pfxteam/the-nature-of-taskcompletionsourcetresult/)
+- [When should TaskCompletionSource<T> be used?](https://stackoverflow.com/questions/15316613/when-should-taskcompletionsourcet-be-used)
+- [Instance of Task class (Task.Factory.StartNew or TaskCompletionSource)](https://stackoverflow.com/questions/5674895/instance-of-task-class-task-factory-startnew-or-taskcompletionsource)
+- [Wrapping Other Asynchronous Patterns in Awaitable Tasks](https://www.damirscorner.com/blog/posts/20130722-WrappingOtherAsynchronousPatternsInAwaitableTasks.html)
 
 
 ## Configure Await
@@ -45,10 +115,94 @@ Contributions are always welcome! Thanks to all contributors, you're awesome and
 - [ConfigureAwait FAQ - Stephen Toub](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
 
 
+### Exception Handling
+
+### Links
+
+- [Exception Handling In Asynchronous Code](https://hamidmosalla.com/2018/06/24/what-is-synchronizationcontext/)
+- [Exception Handling in C# Asynchronous Programming](https://www.c-sharpcorner.com/UploadFile/dacca2/asynchronous-programming-in-C-Sharp-5-0-part-4-exception-handlin/)
+- [Exception handling (Task Parallel Library)](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/exception-handling-task-parallel-library)
+
+## SynchronizationContext
+
+## Links
+
+- [What Is SynchronizationContext](https://hamidmosalla.com/2018/06/24/what-is-synchronizationcontext/)
+
+
+
+## Awaiter
+
+### Links
+
+- [A Tour of Task, Part 6: Results](https://blog.stephencleary.com/2014/12/a-tour-of-task-part-6-results.html)
+- [Task.Wait() Vs Task.GetAwaiter().GetResult()](https://jaliyaudagedara.blogspot.com/2019/06/taskwait-vs-taskgetawaitergetresult.html)
+- [Avoid GetAwaiter().GetResult() at all cost](https://gsferreira.com/archive/2020/08/avoid-getawaiter-getresult-at-all-cost/)
+- [Understanding C# async / await (2) The Awaitable-Awaiter Pattern](https://weblogs.asp.net/dixin/understanding-c-sharp-async-await-2-awaitable-awaiter-pattern)
+
+
+
+## Continuations
+
+### Links
+
+- [A Tour of Task, Part 7: Continuations](https://blog.stephencleary.com/2015/01/a-tour-of-task-part-7-continuations.html)
+- [Chaining tasks using continuation tasks](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/chaining-tasks-by-using-continuation-tasks)
+
+
 ## Thread Pool
 
 
+
 ## Thread
+
+
+
+### Async Tips
+
+## Links
+
+- [Top 7 Common Async Mistakes](https://hamidmosalla.com/2018/04/21/top-7-common-async-mistakes/)
+- [Async/Await - Best Practices in Asynchronous Programming](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/march/async-await-best-practices-in-asynchronous-programming)
+
+
+
+## Concurrency Vs Parallelism
+
+### Links
+
+- [Concurrency Vs Parallelism](https://hamidmosalla.com/2018/03/16/concurrency-vs-parallelism/)
+
+
+
+## Async Local
+
+### Links
+
+- [AsyncLocal<T> in .NET 4.6 ](https://www.tabsoverspaces.com/233526-asynclocal-t-in-net-46)
+- [Implicit Async Context ("AsyncLocal")](https://blog.stephencleary.com/2013/04/implicit-async-context-asynclocal.html)
+- [Multithreaded shared variables and AsyncLocal](https://programmer.help/blogs/multithreaded-shared-variables-and-asynclocal.html)
+
+
+
+## Thread Safey
+
+### Links
+
+- [Thread Safety](https://hamidmosalla.com/2018/07/09/thread-safety/)
+
+
+
+## Async Collections
+
+### BlockingCollection 
+
+#### Links
+
+- [BlockingCollection Overview](https://docs.microsoft.com/en-us/dotnet/standard/collections/thread-safe/blockingcollection-overview) 
+- [Event-driven .NET: Concurrent Producer/Consumer using BlockingCollection](https://makolyte.com/event-driven-dotnet-concurrent-producer-consumer-using-blockingcollection/)
+- [An introduction to BlockingCollection](https://weblogs.asp.net/morteza/an-introduction-to-blockingcollection)
+
 
 
 ## Async Stream & IEnumerableAsync
@@ -68,6 +222,7 @@ Contributions are always welcome! Thanks to all contributors, you're awesome and
 - [Asynchronous streams in C# 8.0](https://blog.miguelbernard.com/asynchronous-streams)
 
 
+
 ## Iterators
 
 ### Links
@@ -83,6 +238,7 @@ Contributions are always welcome! Thanks to all contributors, you're awesome and
 - [IEnumerator Interface](https://docs.microsoft.com/en-us/dotnet/api/system.collections.ienumerator?view=net-5.0)
 
 - [IEnumerable<T> Interface](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1?view=net-5.0)
+
 
 
 ## Channels
@@ -121,6 +277,8 @@ Contributions are always welcome! Thanks to all contributors, you're awesome and
 
 - [https://github.com/deniskyashif/trydotnet-channels](https://github.com/deniskyashif/trydotnet-channels)
 
+
+
 ## Libraries
 - [Nito.AsyncEx](https://www.nuget.org/packages/Nito.AsyncEx/)
   > A helper library for the Task-Based Asynchronous Pattern (TAP). ([Github Repo](https://github.com/StephenCleary/AsyncEx) - [Wiki](https://github.com/StephenCleary/AsyncEx/wiki))
@@ -136,6 +294,8 @@ Contributions are always welcome! Thanks to all contributors, you're awesome and
 
 - [NeoSmart.AsyncLock](https://www.nuget.org/packages/NeoSmart.AsyncLock/)
   > A C# lock replacement for async/await, supporting recursion/re-entrance and asynchronous waits. ([Github Repo](https://github.com/neosmart/AsyncLock))
+
+
 
 ## Code Analyzers
 
