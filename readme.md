@@ -1,5 +1,5 @@
 
-# .Net Async Resources
+# Awesome .Net Async !
 
 > Useful resources about async, threading, and channel in .Net platform. this repository will be updated continuously, keep yourself up to date 😉
 
@@ -8,7 +8,7 @@ If you like or are using this repository to learn or start your solution, please
 
 ## Table of Contents
 
-- [.Net Async Resources](#.net-async-resources)
+- [Awesome DotNet Async](#Awesome-DotNet-Async)
   - [Async & Await](#async-&-await)
     - [Links](#links)
   - [Configure Await](#configure-await)
