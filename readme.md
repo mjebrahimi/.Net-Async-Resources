@@ -1,12 +1,10 @@
 
 # .Net Async Resources
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-Useful resources about async, threading, and channel in .Net platform. this repository will be updated continuously, keep yourself up to date 😉
+> Useful resources about async, threading, and channel in .Net platform. this repository will be updated continuously, keep yourself up to date 😉
 
-# Contribution
-
-Contributions are always welcome! Thanks to all contributors, you're awesome and wouldn't be possible without you! The goal is to build a categorized collection of very well-known resources.
+# Give a Star! ⭐️
+If you like or are using this repository to learn or start your solution, please give it a star. Thanks!
 
 # Table of Contents
 
@@ -310,3 +308,14 @@ Contributions are always welcome! Thanks to all contributors, you're awesome and
 
 - [Lindhart.Analyser.MissingAwaitWarning](https://www.nuget.org/packages/Lindhart.Analyser.MissingAwaitWarning/)
   > Compiler analyser to generate Warnings whenever a Task is not awaited nor assigned to a variable. ([Github Repo](https://github.com/ykoksen/unused-task-warning))
+  
+  
+# Contribution
+
+Contributions are always welcome! Thanks to all contributors, you're awesome and wouldn't be possible without you! The goal is to build a categorized collection of very well-known resources.
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Mehdi Hadeli](https://github.com/mehdihadeli) has waived all copyright and related or neighboring rights to this work.
