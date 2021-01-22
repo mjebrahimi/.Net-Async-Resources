@@ -158,9 +158,9 @@ Contributions are always welcome! Thanks to all contributors, you're awesome and
 
 
 
-### Async Tips
+## Async Tips
 
-## Links
+### Links
 
 - [Top 7 Common Async Mistakes](https://hamidmosalla.com/2018/04/21/top-7-common-async-mistakes/)
 - [Async/Await - Best Practices in Asynchronous Programming](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/march/async-await-best-practices-in-asynchronous-programming)
