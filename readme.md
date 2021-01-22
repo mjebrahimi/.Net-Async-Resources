@@ -3,10 +3,10 @@
 
 > Useful resources about async, threading, and channel in .Net platform. this repository will be updated continuously, keep yourself up to date 😉
 
-# Give a Star! ⭐️
+## Give a Star! ⭐️
 If you like or are using this repository to learn or start your solution, please give it a star. Thanks!
 
-# Table of Contents
+## Table of Contents
 
 - [.Net Async Resources](#.net-async-resources)
   - [Async & Await](#async-&-await)
@@ -310,7 +310,7 @@ If you like or are using this repository to learn or start your solution, please
   > Compiler analyser to generate Warnings whenever a Task is not awaited nor assigned to a variable. ([Github Repo](https://github.com/ykoksen/unused-task-warning))
   
   
-# Contribution
+## Contribution
 
 Contributions are always welcome! Thanks to all contributors, you're awesome and wouldn't be possible without you! The goal is to build a categorized collection of very well-known resources.
 
