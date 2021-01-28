@@ -3,27 +3,28 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 > Useful resources about async, threading, and channel in .Net platform. this repository will be updated continuously, keep yourself up to date 😉
 
+
+Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-async/blob/master/contributing.md) pages first.
+
+Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+
+Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https://www.linkedin.com/in/mehdihadeli/) or [Twitter](https://twitter.com/mehdi_hadeli)!
+
+
 ## Give a Star! ⭐️
 If you like or are using this repository to learn or start your solution, please give it a star. Thanks!
 
-## Table of Contents
+
+## Contents
 
 - [Awesome DotNet Async](#Awesome-DotNet-Async)
   - [Async & Await](#async-&-await)
-    - [Links](#links)
   - [Configure Await](#configure-await)
-    - [Links](#links)
   - [Thread Pool](#thread-pool)
-    - [Links](#links)
   - [Thread](#thread)
-    - [Links](#links)
   - [Async Stream & IEnumerableAsync](#async-stream-&-iEnumerableAsync)
-    - [Links](#links)  
   - [Iterators](#Iterators)
-    - [Links](#links)
   - [Channels](#Channels)
-    - [Links](#links)
-	- [Videos](#Videos)
   - [Libraries](#Libraries)
   - [Code Analyzers](#Code-Analyzers)
 
@@ -104,6 +105,23 @@ If you like or are using this repository to learn or start your solution, please
 - [When should TaskCompletionSource<T> be used?](https://stackoverflow.com/questions/15316613/when-should-taskcompletionsourcet-be-used)
 - [Instance of Task class (Task.Factory.StartNew or TaskCompletionSource)](https://stackoverflow.com/questions/5674895/instance-of-task-class-task-factory-startnew-or-taskcompletionsource)
 - [Wrapping Other Asynchronous Patterns in Awaitable Tasks](https://www.damirscorner.com/blog/posts/20130722-WrappingOtherAsynchronousPatternsInAwaitableTasks.html)
+
+
+## ValueTask
+
+### Links
+
+[ValueTask Restrictions - Stephen Cleary](https://blog.stephencleary.com/2020/03/valuetask.html)
+
+[How to use ValueTask in C# ](https://morioh.com/p/da3a36ccbe3b)
+
+[Task, Async Await, ValueTask, IValueTaskSource and how to keep your sanity in modern .NET world](https://blog.scooletz.com/2018/05/14/task-async-await-valuetask-ivaluetasksource-and-how-to-keep-your-sanity-in-modern-net-world/)
+
+[.NET 5 and pooling for ValueTasks - Scooletz](https://blog.scooletz.com/2020/06/01/pooling-for-value-tasks-in-net5)
+
+### Videos
+
+[Understanding how to use Task and ValueTask](https://www.youtube.com/watch?v=fj-LVS8hqIE)
 
 
 ## Configure Await
@@ -188,6 +206,16 @@ If you like or are using this repository to learn or start your solution, please
 ### Links
 
 - [Thread Safety](https://hamidmosalla.com/2018/07/09/thread-safety/)
+
+
+
+## Asynchronous Messaging
+
+### Links
+
+- [Asynchronous Messaging, Part 1: Basic Distributed Architecture](https://blog.stephencleary.com/2021/01/asynchronous-messaging-1-basic-distributed-architecture.html)
+- [Asynchronous Messaging, Part 2: Durable Queues](https://blog.stephencleary.com/2021/01/asynchronous-messaging-2-durable-queues.html)
+- [Asynchronous Messaging, Part 3: Backend Service](https://blog.stephencleary.com/2021/01/asynchronous-messaging-3-backend-processor.html)
 
 
 
@@ -309,10 +337,7 @@ If you like or are using this repository to learn or start your solution, please
 - [Lindhart.Analyser.MissingAwaitWarning](https://www.nuget.org/packages/Lindhart.Analyser.MissingAwaitWarning/)
   > Compiler analyser to generate Warnings whenever a Task is not awaited nor assigned to a variable. ([Github Repo](https://github.com/ykoksen/unused-task-warning))
   
-  
-## Contribution
-
-Contributions are always welcome! Thanks to all contributors, you're awesome and wouldn't be possible without you! The goal is to build a categorized collection of very well-known resources.
+ 
 
 ## License
 
