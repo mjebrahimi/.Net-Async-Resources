@@ -31,11 +31,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Thread Safey](#thread-safey)
 - [Asynchronous Messaging](#asynchronous-messaging)
 - [Async Collections](#async-collections)
-- [Async Stream And IEnumerableAsync](#async-stream-and-iEnumerableAsync)
-- [Iterators](#Iterators)
-- [Channels](#Channels)
-- [Libraries](#Libraries)
-- [Code Analyzers](#Code-Analyzers)
+- [Async Stream And IEnumerableAsync](#async-stream-and-ienumerableasync)
+- [Iterators](#iterators)
+- [Channels](#channels)
+- [Libraries](#libraries)
+- [Code Analyzers](#code-analyzers)
 
 
 ## Async-Await
