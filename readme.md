@@ -13,7 +13,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Contents
 - [Async-Await](#async-await)
 - [Cancellation](#cancellation)
-- [I/O-Bound](#i/o-bound)
+- [IO-Bound](#io-bound)
 - [Cpu-Bound](#cpu-bound)
 - [TaskCompletionSource](#taskcompletionSource)
 - [ValueTask](#valuetask)
@@ -57,17 +57,17 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [https://github.com/johnthiriet/AsyncTips](https://github.com/johnthiriet/AsyncTips)
 
 
-## I/O-Bound
+## IO-Bound
 
 ### Articles
 
 - [Deeper Dive into Tasks for an I/O-Bound Operation](http://docs.microsoft.com/en-us/dotnet/standard/async-in-depth#deeper-dive-into-tasks-for-an-io-bound-operation)
-- [I/O-bound tasks](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/implementing-the-task-based-asynchronous-pattern#io-bound-tasks)
-- [Why you shouldn’t create asynchronous wrappers with Task.Run()](https://www.ben-morris.com/why-you-shouldnt-create-asynchronous-wrappers-with-task-run/)
+- [I/O-bound tasks](http://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/implementing-the-task-based-asynchronous-pattern#io-bound-tasks)
+- [Why you should not create asynchronous wrappers with Task.Run()](https://www.ben-morris.com/why-you-shouldnt-create-asynchronous-wrappers-with-task-run/)
 - [Asynchronous file access (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/using-async-for-file-access)
-- [C# : TASK PARALLEL LIBRARY (TPL) WITH ASYNC AWAIT AND TASKCOMPLETIONSOURCE FOR ASYNC I/O OPERATIONS](https://www.techblogcity.com/2019/06/05/task-parallel-library-with-async-await-and-taskcompletionsource/)
+- [C# : TASK PARALLEL LIBRARY (TPL) WITH ASYNC AWAIT AND TASKCOMPLETIONSOURCE FOR ASYNC I/O OPERATIONS](http://www.techblogcity.com/2019/06/05/task-parallel-library-with-async-await-and-taskcompletionsource/)
 - [There Is No Thread](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)
-- [Wrapping Other Asynchronous Patterns in Awaitable Tasks](https://www.damirscorner.com/blog/posts/20130722-WrappingOtherAsynchronousPatternsInAwaitableTasks.html)
+- [Wrapping Other Asynchronous Patterns in Awaitable Tasks](http://www.damirscorner.com/blog/posts/20130722-WrappingOtherAsynchronousPatternsInAwaitableTasks.html)
 - [Task.Factory.StartNew vs Task.Factory.FromAsync](https://stackoverflow.com/questions/17432306/task-factory-startnew-vs-task-factory-fromasync)
 
 
