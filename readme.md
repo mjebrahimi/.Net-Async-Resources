@@ -15,7 +15,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Cancellation](#cancellation)
 - [IO-Bound](#io-bound)
 - [Cpu-Bound](#cpu-bound)
-- [TaskCompletionSource](#taskcompletionSource)
+- [TaskCompletionSource](#taskcompletionsource)
 - [ValueTask](#valuetask)
 - [Configure Await](#configure-await)
 - [Exception Handling](#exception-handling)
@@ -312,7 +312,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Code Analyzers
 
-- [Microsoft.VisualStudio.Threading.Analyzers](https://github.com/microsoft/vs-threading)
+- [Microsoft.VisualStudio.Threading.Analyzers](https://b2n.ir/777981)
   > Static code analyzer to detect common mistakes or potential issues regarding threading and async coding. 
 
 - [AsyncFixer](https://github.com/semihokur/AsyncFixer)
