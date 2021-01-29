@@ -92,7 +92,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [The Nature of TaskCompletionSource](https://devblogs.microsoft.com/pfxteam/the-nature-of-taskcompletionsourcetresult/)
 - [When should TaskCompletionSource<T> be used?](https://stackoverflow.com/questions/15316613/when-should-taskcompletionsourcet-be-used)
 - [Instance of Task class (Task.Factory.StartNew or TaskCompletionSource)](https://stackoverflow.com/questions/5674895/instance-of-task-class-task-factory-startnew-or-taskcompletionsource)
-- [Wrapping Other Asynchronous Patterns in Awaitable Tasks](https://www.damirscorner.com/blog/posts/20130722-WrappingOtherAsynchronousPatternsInAwaitableTasks.html)
+- [Wrapping Other Asynchronous Patterns in Awaitable Tasks](https://b2n.ir/871581)
 
 
 ## ValueTask
@@ -123,7 +123,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### Articles
 
-- [Exception Handling In Asynchronous Code](https://hamidmosalla.com/2018/06/24/what-is-synchronizationcontext/)
+- [Exception Handling In Asynchronous Code](https://b2n.ir/836643)
 - [Exception Handling in C# Asynchronous Programming](https://www.c-sharpcorner.com/UploadFile/dacca2/asynchronous-programming-in-C-Sharp-5-0-part-4-exception-handlin/)
 - [Exception handling (Task Parallel Library)](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/exception-handling-task-parallel-library)
 
@@ -293,36 +293,36 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 
 ## Libraries
-- [Nito.AsyncEx](https://www.nuget.org/packages/Nito.AsyncEx/)
-  > A helper library for the Task-Based Asynchronous Pattern (TAP). ([Github Repo](https://github.com/StephenCleary/AsyncEx) - [Wiki](https://github.com/StephenCleary/AsyncEx/wiki))
+- [Nito.AsyncEx](https://github.com/StephenCleary/AsyncEx)
+  > A helper library for the Task-Based Asynchronous Pattern (TAP).
 
-- [Microsoft.VisualStudio.Threading](https://www.nuget.org/packages/Microsoft.VisualStudio.Threading/)
-  > Async synchronization primitives, async collections, TPL and dataflow extensions. The JoinableTaskFactory allows synchronously blocking the UI thread for async work. ([Github Repo](https://github.com/microsoft/vs-threading))
+- [Microsoft.VisualStudio.Threading](https://github.com/microsoft/vs-threading)
+  > Async synchronization primitives, async collections, TPL and dataflow extensions. The JoinableTaskFactory allows synchronously blocking the UI thread for async work. 
 
-- [AsyncEnumerator](https://www.nuget.org/packages/AsyncEnumerator/)
-  > Introduces `IAsyncEnumerable`, `IAsyncEnumerator`, `ForEachAsync()`, and `ParallelForEachAsync()` and other useful stuff to use with async-await ([Github Repo](https://github.com/Dasync/AsyncEnumerable))
+- [AsyncEnumerator](https://github.com/Dasync/AsyncEnumerable)
+  > Introduces `IAsyncEnumerable`, `IAsyncEnumerator`, `ForEachAsync()`, and `ParallelForEachAsync()` and other useful stuff to use with async-await 
 
-- [AsyncIO.DotNet](https://www.nuget.org/packages/AsyncIO.DotNet/)
-  > Easy-to-use library for common async IO file system operations. ([Github Repo](https://github.com/firenero/AsyncIO))
+- [AsyncIO.DotNet](https://github.com/firenero/AsyncIO)
+  > Easy-to-use library for common async IO file system operations. 
 
-- [NeoSmart.AsyncLock](https://www.nuget.org/packages/NeoSmart.AsyncLock/)
-  > A C# lock replacement for async/await, supporting recursion/re-entrance and asynchronous waits. ([Github Repo](https://github.com/neosmart/AsyncLock))
+- [NeoSmart.AsyncLock](https://github.com/neosmart/AsyncLock)
+  > A C# lock replacement for async/await, supporting recursion/re-entrance and asynchronous waits. 
 
 
 
 ## Code Analyzers
 
-- [Microsoft.VisualStudio.Threading.Analyzers](https://www.nuget.org/packages/Microsoft.VisualStudio.Threading.Analyzers/)
-  > Static code analyzer to detect common mistakes or potential issues regarding threading and async coding. ([Github Repo](https://github.com/microsoft/vs-threading))
+- [Microsoft.VisualStudio.Threading.Analyzers](https://github.com/microsoft/vs-threading)
+  > Static code analyzer to detect common mistakes or potential issues regarding threading and async coding. 
 
-- [AsyncFixer](https://www.nuget.org/packages/AsyncFixer/)
-  > AsyncFixer helps developers in finding and correcting common async/await misuses (i.e., anti-patterns). ([Github Repo](https://github.com/semihokur/AsyncFixer))
+- [AsyncFixer](https://github.com/semihokur/AsyncFixer)
+  > AsyncFixer helps developers in finding and correcting common async/await misuses (i.e., anti-patterns). 
 
-- [ConfigureAwaitChecker.Analyzer](https://www.nuget.org/packages/ConfigureAwaitChecker.Analyzer/)
-  > Checks for `ConfigureAwait(false)` usage. ([Github Repo](https://github.com/cincuranet/ConfigureAwaitChecker))
+- [ConfigureAwaitChecker.Analyzer](https://github.com/cincuranet/ConfigureAwaitChecker)
+  > Checks for `ConfigureAwait(false)` usage. 
 
-- [Lindhart.Analyser.MissingAwaitWarning](https://www.nuget.org/packages/Lindhart.Analyser.MissingAwaitWarning/)
-  > Compiler analyser to generate Warnings whenever a Task is not awaited nor assigned to a variable. ([Github Repo](https://github.com/ykoksen/unused-task-warning))
+- [Lindhart.Analyser.MissingAwaitWarning](https://github.com/ykoksen/unused-task-warning)
+  > Compiler analyser to generate Warnings whenever a Task is not awaited nor assigned to a variable.
 
 
   
