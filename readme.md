@@ -1,7 +1,7 @@
 
 # Awesome .Net Async !
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-> Useful resources about async, threading, and channel in .Net platform. this repository will be updated continuously, keep yourself up to date 😉
+> Collection of useful articles and resources to learning and practicing about async, threading, and channels in .Net platform. this repository will be updated continuously, keep yourself up to date 😉
 
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-async/blob/master/contributing.md) pages first.
