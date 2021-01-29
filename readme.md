@@ -335,6 +335,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Lindhart.Analyser.MissingAwaitWarning](https://github.com/ykoksen/unused-task-warning)
   > Compiler analyser to generate Warnings whenever a Task is not awaited nor assigned to a variable.
 
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
 
   
  
