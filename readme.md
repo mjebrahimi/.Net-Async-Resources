@@ -337,8 +337,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
-   
-   
+  
 
   
  
