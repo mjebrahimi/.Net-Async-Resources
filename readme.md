@@ -1,19 +1,14 @@
 
-# Awesome .Net Async !
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-> Collection of useful articles and resources to learning and practicing about async, threading, and channels in .Net platform. this repository will be updated continuously, keep yourself up to date 😉
+# 🎨 Awesome .Net Async [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+
+Collection of useful articles and resources to learning and practicing about async, threading, and channels in .Net platform. this repository will be updated continuously, keep yourself up to date 😉
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-async/blob/master/contributing.md) pages first.
 
 Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https://www.linkedin.com/in/mehdihadeli/) or [Twitter](https://twitter.com/mehdi_hadeli)!
-
-
-## Give a Star! ⭐️
-If you like or are using this repository to learn or start your solution, please give it a star. Thanks!
-
 
 ## Contents
 - [Async & Await](#async-&-await)
