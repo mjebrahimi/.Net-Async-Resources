@@ -11,17 +11,17 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https://www.linkedin.com/in/mehdihadeli/) or [Twitter](https://twitter.com/mehdi_hadeli)!
 
 ## Contents
-- [Async & Await](#async-&-await)
+- [Async-Await](#async-await)
 - [Configure Await](#configure-await)
 - [Thread Pool](#thread-pool)
 - [Thread](#thread)
-- [Async Stream & IEnumerableAsync](#async-stream-&-iEnumerableAsync)
+- [Async Stream And IEnumerableAsync](#async-stream-and-iEnumerableAsync)
 - [Iterators](#Iterators)
 - [Channels](#Channels)
 - [Libraries](#Libraries)
 - [Code Analyzers](#Code-Analyzers)
 
-## Async & Await
+## Async-Await
 
 ### Articles
 - [Async Overview](https://docs.microsoft.com/en-us/dotnet/standard/async)
@@ -224,7 +224,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 
 
-## Async Stream & IEnumerableAsync
+## Async Stream And IEnumerableAsync
 
 ### Articles
 
@@ -329,5 +329,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 - [Lindhart.Analyser.MissingAwaitWarning](https://www.nuget.org/packages/Lindhart.Analyser.MissingAwaitWarning/)
   > Compiler analyser to generate Warnings whenever a Task is not awaited nor assigned to a variable. ([Github Repo](https://github.com/ykoksen/unused-task-warning))
+
+
   
  
