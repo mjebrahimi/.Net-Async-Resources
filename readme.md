@@ -101,7 +101,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [C# : TASK PARALLEL LIBRARY (TPL) WITH ASYNC AWAIT AND TASKCOMPLETIONSOURCE FOR ASYNC I/O OPERATIONS](https://www.techblogcity.com/2019/06/05/task-parallel-library-with-async-await-and-taskcompletionsource/)
 - [Task.Run Vs TaskCompletionSource Vs Task.Factory.FromAsync](https://hamidmosalla.com/2018/05/27/task-run-vs-taskcompletionsource-vs-task-factory-fromasync/)
 - [The Nature of TaskCompletionSource](https://devblogs.microsoft.com/pfxteam/the-nature-of-taskcompletionsourcetresult/)
-- [When should TaskCompletionSource<T> be used?](https://stackoverflow.com/questions/15316613/when-should-taskcompletionsourcet-be-used)
+- [When should TaskCompletionSourceT be used?](https://stackoverflow.com/questions/15316613/when-should-taskcompletionsourcet-be-used)
 - [Instance of Task class (Task.Factory.StartNew or TaskCompletionSource)](https://stackoverflow.com/questions/5674895/instance-of-task-class-task-factory-startnew-or-taskcompletionsource)
 - [Wrapping Other Asynchronous Patterns in Awaitable Tasks](https://b2n.ir/871581)
 
@@ -193,7 +193,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Async Local
 
 ### Articles
-- [AsyncLocal<T> in .NET 4.6](https://www.tabsoverspaces.com/233526-asynclocal-t-in-net-46)
+- [AsyncLocalT in .NET 4.6](https://www.tabsoverspaces.com/233526-asynclocal-t-in-net-46)
 - [Implicit Async Context ("AsyncLocal")](https://blog.stephencleary.com/2013/04/implicit-async-context-asynclocal.html)
 - [Multithreaded shared variables and AsyncLocal](https://programmer.help/blogs/multithreaded-shared-variables-and-asynclocal.html)
 
@@ -261,7 +261,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 - [IEnumerator Interface](https://docs.microsoft.com/en-us/dotnet/api/system.collections.ienumerator?view=net-5.0)
 
-- [IEnumerable<T> Interface](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1?view=net-5.0)
+- [IEnumerableT Interface](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1?view=net-5.0)
 
 
 
