@@ -12,7 +12,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Contents
 - [Async-Await](#async-await)
-- [ValueTask](valuetask)
+- [Cancellation](#cancellation)
+- [I/O-Bound](#i/o-bound)
+- [Cpu-Bound](#cpu-bound)
+- [TaskCompletionSource](#taskcompletionSource)
+- [ValueTask](#valuetask)
 - [Configure Await](#configure-await)
 - [Exception Handling](#exception-handling)
 - [Thread Pool](#thread-pool)
@@ -39,7 +43,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Cancellation
 
 ### Articles
-
 - [Task cancellation in C# and things you should know about it](https://binary-studio.com/2015/10/23/task-cancellation-in-c-and-things-you-should-know-about-it)
 - [Cancel asynchronous operation in csharp](https://johnthiriet.com/cancel-asynchronous-operation-in-csharp/)
 - [Aborting Thread Vs Cancelling Task](https://www.c-sharpcorner.com/article/aborting-thread-vs-cancelling-task/)
@@ -80,7 +83,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## TaskCompletionSource
 
 ### Articles
-
 - [Should I expose asynchronous wrappers for synchronous methods?](https://devblogs.microsoft.com/pfxteam/should-i-expose-asynchronous-wrappers-for-synchronous-methods/)
 - [Using TaskCompletionSource to change the semantics of async calls](http://vannevel.net/posts/using-taskcompletionsource-to-change-the-semantics-of-async-calls/)
 - [TaskCompletionSource in real life (part 1 of 2)](https://www.fmork.net/software/writing/2012/TaskCompletionSource-in-real-life-(part-1-of-2).htm)
