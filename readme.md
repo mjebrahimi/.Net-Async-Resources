@@ -25,7 +25,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Continuations](#continuations)
 - [Thread Pool](#thread-pool)
 - [Thread](#thread)
-- [Async Tips](async-tips)
+- [Async Tips](#async-tips)
 - [Async Stream And IEnumerableAsync](#async-stream-and-iEnumerableAsync)
 - [Iterators](#Iterators)
 - [Channels](#Channels)
