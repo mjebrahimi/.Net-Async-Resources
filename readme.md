@@ -12,6 +12,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Contents
 - [Async-Await](#async-await)
+- [ValueTask](valuetask)
 - [Configure Await](#configure-await)
 - [Exception Handling](#exception-handling)
 - [Thread Pool](#thread-pool)
@@ -58,9 +59,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### Articles
 
-- [Deeper Dive into Tasks for an I/O-Bound Operation](https://docs.microsoft.com/en-us/dotnet/standard/async-in-depth#deeper-dive-into-tasks-for-an-io-bound-operation)
+- [Deeper Dive into Tasks for an I/O-Bound Operation](http://docs.microsoft.com/en-us/dotnet/standard/async-in-depth#deeper-dive-into-tasks-for-an-io-bound-operation)
 - [I/O-bound tasks](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/implementing-the-task-based-asynchronous-pattern#io-bound-tasks)
-- [Using TaskCompletionSource to change the semantics of async calls](http://vannevel.net/posts/using-taskcompletionsource-to-change-the-semantics-of-async-calls/)
 - [Why you shouldn’t create asynchronous wrappers with Task.Run()](https://www.ben-morris.com/why-you-shouldnt-create-asynchronous-wrappers-with-task-run/)
 - [Asynchronous file access (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/using-async-for-file-access)
 - [C# : TASK PARALLEL LIBRARY (TPL) WITH ASYNC AWAIT AND TASKCOMPLETIONSOURCE FOR ASYNC I/O OPERATIONS](https://www.techblogcity.com/2019/06/05/task-parallel-library-with-async-await-and-taskcompletionsource/)
@@ -100,17 +100,17 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### Articles
 
-[ValueTask Restrictions - Stephen Cleary](https://blog.stephencleary.com/2020/03/valuetask.html)
+- [ValueTask Restrictions - Stephen Cleary](https://blog.stephencleary.com/2020/03/valuetask.html)
 
-[How to use ValueTask in C#](https://morioh.com/p/da3a36ccbe3b)
+- [How to use ValueTask in C#](https://morioh.com/p/da3a36ccbe3b)
 
-[Task, Async Await, ValueTask, IValueTaskSource and how to keep your sanity in modern .NET world](https://blog.scooletz.com/2018/05/14/task-async-await-valuetask-ivaluetasksource-and-how-to-keep-your-sanity-in-modern-net-world/)
+- [Task, Async Await, ValueTask, IValueTaskSource and how to keep your sanity in modern .NET world](https://blog.scooletz.com/2018/05/14/task-async-await-valuetask-ivaluetasksource-and-how-to-keep-your-sanity-in-modern-net-world/)
 
-[.NET 5 and pooling for ValueTasks - Scooletz](https://blog.scooletz.com/2020/06/01/pooling-for-value-tasks-in-net5)
+- [.NET 5 and pooling for ValueTasks - Scooletz](https://blog.scooletz.com/2020/06/01/pooling-for-value-tasks-in-net5)
 
 ### Videos
 
-[Understanding how to use Task and ValueTask](https://www.youtube.com/watch?v=fj-LVS8hqIE)
+- [Understanding how to use Task and ValueTask](https://www.youtube.com/watch?v=fj-LVS8hqIE)
 
 
 ## Configure Await
