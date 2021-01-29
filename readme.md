@@ -60,13 +60,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Deeper Dive into Tasks for an I/O-Bound Operation](https://docs.microsoft.com/en-us/dotnet/standard/async-in-depth#deeper-dive-into-tasks-for-an-io-bound-operation)
 - [I/O-bound tasks](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/implementing-the-task-based-asynchronous-pattern#io-bound-tasks)
 - [Using TaskCompletionSource to change the semantics of async calls](http://vannevel.net/posts/using-taskcompletionsource-to-change-the-semantics-of-async-calls/)
-- [Task.Run Etiquette and Proper Usage](https://blog.stephencleary.com/2013/10/taskrun-etiquette-and-proper-usage.html)
 - [Why you shouldn’t create asynchronous wrappers with Task.Run()](https://www.ben-morris.com/why-you-shouldnt-create-asynchronous-wrappers-with-task-run/)
-- [Should I expose asynchronous wrappers for synchronous methods?](https://devblogs.microsoft.com/pfxteam/should-i-expose-asynchronous-wrappers-for-synchronous-methods/)
-- [TaskCompletionSource in real life (part 1 of 2)](https://www.fmork.net/software/writing/2012/TaskCompletionSource-in-real-life-(part-1-of-2).htm)
-- [TaskCompletionSource in real life (part 2 of 2)](https://www.fmork.net/software/writing/2012/TaskCompletionSource-in-real-life-(part-2-of-2).htm)
 - [Asynchronous file access (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/using-async-for-file-access)
-- [Task.Run Vs TaskCompletionSource Vs Task.Factory.FromAsync](https://hamidmosalla.com/2018/05/27/task-run-vs-taskcompletionsource-vs-task-factory-fromasync/)
 - [C# : TASK PARALLEL LIBRARY (TPL) WITH ASYNC AWAIT AND TASKCOMPLETIONSOURCE FOR ASYNC I/O OPERATIONS](https://www.techblogcity.com/2019/06/05/task-parallel-library-with-async-await-and-taskcompletionsource/)
 - [There Is No Thread](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)
 - [Wrapping Other Asynchronous Patterns in Awaitable Tasks](https://www.damirscorner.com/blog/posts/20130722-WrappingOtherAsynchronousPatternsInAwaitableTasks.html)
@@ -106,7 +101,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 [ValueTask Restrictions - Stephen Cleary](https://blog.stephencleary.com/2020/03/valuetask.html)
 
-[How to use ValueTask in C# ](https://morioh.com/p/da3a36ccbe3b)
+[How to use ValueTask in C#](https://morioh.com/p/da3a36ccbe3b)
 
 [Task, Async Await, ValueTask, IValueTaskSource and how to keep your sanity in modern .NET world](https://blog.scooletz.com/2018/05/14/task-async-await-valuetask-ivaluetasksource-and-how-to-keep-your-sanity-in-modern-net-world/)
 
@@ -187,8 +182,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Async Local
 
 ### Articles
-
-- [AsyncLocal<T> in .NET 4.6 ](https://www.tabsoverspaces.com/233526-asynclocal-t-in-net-46)
+- [AsyncLocal<T> in .NET 4.6](https://www.tabsoverspaces.com/233526-asynclocal-t-in-net-46)
 - [Implicit Async Context ("AsyncLocal")](https://blog.stephencleary.com/2013/04/implicit-async-context-asynclocal.html)
 - [Multithreaded shared variables and AsyncLocal](https://programmer.help/blogs/multithreaded-shared-variables-and-asynclocal.html)
 
