@@ -13,6 +13,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Contents
 - [Async-Await](#async-await)
 - [Configure Await](#configure-await)
+- [Exception Handling](#exception-handling)
 - [Thread Pool](#thread-pool)
 - [Thread](#thread)
 - [Async Stream And IEnumerableAsync](#async-stream-and-iEnumerableAsync)
@@ -119,7 +120,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [ConfigureAwait FAQ - Stephen Toub](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
 
 
-### Exception Handling
+## Exception Handling
 
 ### Articles
 
