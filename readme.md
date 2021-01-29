@@ -71,8 +71,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Cpu-Bound
 
 ### Articles
-
-- [Deeper Dive into Task and Task<T> for a CPU-Bound Operation](https://docs.microsoft.com/en-us/dotnet/standard/async-in-depth#deeper-dive-into-task-and-taskt-for-a-cpu-bound-operation)
 - [Compute-bound tasks](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/implementing-the-task-based-asynchronous-pattern#compute-bound-tasks)
 - [Task.Run Etiquette and Proper Usage](https://blog.stephencleary.com/2013/10/taskrun-etiquette-and-proper-usage.html)
 - [Should I expose asynchronous wrappers for synchronous methods?](https://devblogs.microsoft.com/pfxteam/should-i-expose-asynchronous-wrappers-for-synchronous-methods/)
