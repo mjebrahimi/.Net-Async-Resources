@@ -19,6 +19,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [ValueTask](#valuetask)
 - [Configure Await](#configure-await)
 - [Exception Handling](#exception-handling)
+- [SynchronizationContext](#synchronizationcontext)
+- [Awaiter](#awaiter)
+- [Continuations](#continuations)
 - [Thread Pool](#thread-pool)
 - [Thread](#thread)
 - [Async Stream And IEnumerableAsync](#async-stream-and-iEnumerableAsync)
@@ -27,7 +30,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Libraries](#Libraries)
 - [Code Analyzers](#Code-Analyzers)
 
-## Async-Await
 
 ### Articles
 - [Async Overview](https://docs.microsoft.com/en-us/dotnet/standard/async)
