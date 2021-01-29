@@ -27,7 +27,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### Articles
 - [Async Overview](https://docs.microsoft.com/en-us/dotnet/standard/async)
-- [Async in depth](https://docs.microsoft.com/en-us/dotnet/standard/async-in-depth)
 - [Asynchronous programming patterns](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/)
 - [Task-based asynchronous pattern - TAP](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/task-based-asynchronous-pattern-tap)
 - [Event-based Asynchronous Pattern - EAP](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/event-based-asynchronous-pattern-overview)
