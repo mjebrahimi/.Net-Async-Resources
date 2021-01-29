@@ -32,8 +32,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### Articles
 - [Async Overview](https://docs.microsoft.com/en-us/dotnet/standard/async)
 - [Asynchronous programming patterns](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/)
-- [Task-based asynchronous pattern - TAP](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/task-based-asynchronous-pattern-tap)
-- [Event-based Asynchronous Pattern - EAP](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/event-based-asynchronous-pattern-overview)
+- [Task-based asynchronous pattern - TAP](https://b2n.ir/143257)
+- [Event-based Asynchronous Pattern - EAP](https://b2n.ir/604805)
 - [Asynchronous Programming Model - APM](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/asynchronous-programming-model-apm)
 - [Task asynchronous programming model](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/task-asynchronous-programming-model)
 - [Async return types (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/async-return-types)
@@ -77,13 +77,13 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Compute-bound tasks](https://b2n.ir/481224)
 - [Task.Run Etiquette and Proper Usage](https://blog.stephencleary.com/2013/10/taskrun-etiquette-and-proper-usage.html)
 - [Should I expose asynchronous wrappers for synchronous methods?](https://devblogs.microsoft.com/pfxteam/should-i-expose-asynchronous-wrappers-for-synchronous-methods/)
-- [Task.Run Vs TaskCompletionSource Vs Task.Factory.FromAsync](https://hamidmosalla.com/2018/05/27/task-run-vs-taskcompletionsource-vs-task-factory-fromasync/)
+- [Task.Run Vs TaskCompletionSource Vs Task.Factory.FromAsync](https://b2n.ir/489838)
 
 
 ## TaskCompletionSource
 
 ### Articles
-- [Should I expose asynchronous wrappers for synchronous methods?](https://devblogs.microsoft.com/pfxteam/should-i-expose-asynchronous-wrappers-for-synchronous-methods/)
+- [Should I expose asynchronous wrappers for synchronous methods?](https://b2n.ir/959223)
 - [Using TaskCompletionSource to change the semantics of async calls](http://vannevel.net/posts/using-taskcompletionsource-to-change-the-semantics-of-async-calls/)
 - [TaskCompletionSource in real life (part 1 of 2)](https://www.fmork.net/software/writing/2012/TaskCompletionSource-in-real-life-(part-1-of-2).htm)
 - [TaskCompletionSource in real life (part 2 of 2)](https://www.fmork.net/software/writing/2012/TaskCompletionSource-in-real-life-(part-2-of-2).htm)
