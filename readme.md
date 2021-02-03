@@ -39,7 +39,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Async-Await
 
-### Articles
+### 📝 Articles
 - [Async Overview](https://docs.microsoft.com/en-us/dotnet/standard/async)
 - [Asynchronous programming patterns](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/)
 - [Task-based asynchronous pattern - TAP](https://b2n.ir/143257)
@@ -52,7 +52,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Cancellation
 
-### Articles
+### 📝 Articles
 - [Task cancellation in C# and things you should know about it](https://binary-studio.com/2015/10/23/task-cancellation-in-c-and-things-you-should-know-about-it)
 - [Cancel asynchronous operation in csharp](https://johnthiriet.com/cancel-asynchronous-operation-in-csharp/)
 - [Aborting Thread Vs Cancelling Task](https://www.c-sharpcorner.com/article/aborting-thread-vs-cancelling-task/)
@@ -62,14 +62,14 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [How to: Cancel a Task and Its Children](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/how-to-cancel-a-task-and-its-children)
 - [Using CancellationTokens in ASP.NET Core MVC controllers](https://andrewlock.net/using-cancellationtokens-in-asp-net-core-mvc-controllers/)
 
-### Samples
+### 🔖 Samples
 
 - [https://github.com/johnthiriet/AsyncTips](https://github.com/johnthiriet/AsyncTips)
 
 
 ## IO-Bound
 
-### Articles
+### 📝 Articles
 
 - [Deeper Dive into Tasks for an I/O-Bound Operation](http://docs.microsoft.com/en-us/dotnet/standard/async-in-depth#deeper-dive-into-tasks-for-an-io-bound-operation)
 - [I/O-bound tasks](http://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/implementing-the-task-based-asynchronous-pattern#io-bound-tasks)
@@ -83,7 +83,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Cpu-Bound
 
-### Articles
+### 📝 Articles
 - [Compute-bound tasks](https://b2n.ir/481224)
 - [Task.Run Etiquette and Proper Usage](https://blog.stephencleary.com/2013/10/taskrun-etiquette-and-proper-usage.html)
 - [Should I expose asynchronous wrappers for synchronous methods?](https://devblogs.microsoft.com/pfxteam/should-i-expose-asynchronous-wrappers-for-synchronous-methods/)
@@ -92,7 +92,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## TaskCompletionSource
 
-### Articles
+### 📝 Articles
 - [Should I expose asynchronous wrappers for synchronous methods?](https://b2n.ir/959223)
 - [Using TaskCompletionSource to change the semantics of async calls](http://vannevel.net/posts/using-taskcompletionsource-to-change-the-semantics-of-async-calls/)
 - [TaskCompletionSource in real life (part 1 of 2)](https://www.fmork.net/software/writing/2012/TaskCompletionSource-in-real-life-(part-1-of-2).htm)
@@ -107,7 +107,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## ValueTask
 
-### Articles
+### 📝 Articles
 
 - [ValueTask Restrictions - Stephen Cleary](https://blog.stephencleary.com/2020/03/valuetask.html)
 
@@ -117,21 +117,21 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 - [.NET 5 and pooling for ValueTasks - Scooletz](https://blog.scooletz.com/2020/06/01/pooling-for-value-tasks-in-net5)
 
-### Videos
+### 📹 Videoes
 
 - [Understanding how to use Task and ValueTask](https://www.youtube.com/watch?v=fj-LVS8hqIE)
 
 
 ## Configure Await
 
-### Articles
+### 📝 Articles
 
 - [ConfigureAwait FAQ - Stephen Toub](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
 
 
 ## Exception Handling
 
-### Articles
+### 📝 Articles
 
 - [Exception Handling In Asynchronous Code](https://b2n.ir/836643)
 - [Exception Handling in C# Asynchronous Programming](https://www.c-sharpcorner.com/UploadFile/dacca2/asynchronous-programming-in-C-Sharp-5-0-part-4-exception-handlin/)
@@ -139,7 +139,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## SynchronizationContext
 
-### Articles
+### 📝 Articles
 
 - [What Is SynchronizationContext](https://hamidmosalla.com/2018/06/24/what-is-synchronizationcontext/)
 
@@ -147,7 +147,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Awaiter
 
-### Articles
+### 📝 Articles
 
 - [A Tour of Task, Part 6: Results](https://blog.stephencleary.com/2014/12/a-tour-of-task-part-6-results.html)
 - [Task.Wait() Vs Task.GetAwaiter().GetResult()](https://jaliyaudagedara.blogspot.com/2019/06/taskwait-vs-taskgetawaitergetresult.html)
@@ -158,7 +158,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Continuations
 
-### Articles
+### 📝 Articles
 
 - [A Tour of Task, Part 7: Continuations](https://blog.stephencleary.com/2015/01/a-tour-of-task-part-7-continuations.html)
 - [Chaining tasks using continuation tasks](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/chaining-tasks-by-using-continuation-tasks)
@@ -174,7 +174,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Async Tips
 
-### Articles
+### 📝 Articles
 
 - [Top 7 Common Async Mistakes](https://hamidmosalla.com/2018/04/21/top-7-common-async-mistakes/)
 - [Async/Await - Best Practices in Asynchronous Programming](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/march/async-await-best-practices-in-asynchronous-programming)
@@ -183,7 +183,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Concurrency Vs Parallelism
 
-### Articles
+### 📝 Articles
 
 - [Concurrency Vs Parallelism](https://hamidmosalla.com/2018/03/16/concurrency-vs-parallelism/)
 
@@ -191,7 +191,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Async Local
 
-### Articles
+### 📝 Articles
 - [AsyncLocalT in .NET 4.6](https://www.tabsoverspaces.com/233526-asynclocal-t-in-net-46)
 - [Implicit Async Context ("AsyncLocal")](https://blog.stephencleary.com/2013/04/implicit-async-context-asynclocal.html)
 - [Multithreaded shared variables and AsyncLocal](https://programmer.help/blogs/multithreaded-shared-variables-and-asynclocal.html)
@@ -200,7 +200,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Thread Safey
 
-### Articles
+### 📝 Articles
 
 - [Thread Safety](https://hamidmosalla.com/2018/07/09/thread-safety/)
 
@@ -208,7 +208,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Asynchronous Messaging
 
-### Articles
+### 📝 Articles
 
 - [Asynchronous Messaging, Part 1: Basic Distributed Architecture](https://blog.stephencleary.com/2021/01/asynchronous-messaging-1-basic-distributed-architecture.html)
 - [Asynchronous Messaging, Part 2: Durable Queues](https://blog.stephencleary.com/2021/01/asynchronous-messaging-2-durable-queues.html)
@@ -220,7 +220,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### BlockingCollection 
 
-#### Articles
+#### 📝 Articles
 
 - [BlockingCollection Overview](https://docs.microsoft.com/en-us/dotnet/standard/collections/thread-safe/blockingcollection-overview) 
 - [Event-driven .NET: Concurrent Producer/Consumer using BlockingCollection](https://makolyte.com/event-driven-dotnet-concurrent-producer-consumer-using-blockingcollection/)
@@ -230,7 +230,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Async Stream And IEnumerableAsync
 
-### Articles
+### 📝 Articles
 
 - [Use streaming in ASP.NET Core SignalR](https://docs.microsoft.com/en-us/aspnet/core/signalr/streaming?view=aspnetcore-5.0)
 
@@ -249,7 +249,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [gRPC and C# 8 Async stream cancellation](https://laurentkempe.com/2019/09/25/gRPC-and-csharp-8-Async-stream-cancellation/)
 ## Iterators
 
-### Articles
+### 📝 Articles
 
 - [Iterators](https://bettersolutions.com/csharp/collections/iterators.htm)
 
@@ -267,13 +267,13 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Channels
 
-### Videos
+### 📹 Videoes
 
 - [C# Channels Explained (System.Threading.Channels)](https://www.youtube.com/watch?v=E0Ld7ZgE4oY)
 
 - [Working with Channels in .NET](https://channel9.msdn.com/Shows/On-NET/Working-with-Channels-in-NET)
 
-### Articles
+### 📝 Articles
 
 - [An Introduction to System.Threading.Channels - Stephen Toub](https://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/)
 
@@ -297,7 +297,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 - [How to implement Producer/Consumer with System.Threading.Channels](https://www.davideguida.com/consuming-message-queues-using-net-core-background-workers-part-4-adding-system-threading-channels/)
 
-### Samples
+### 🔖 Samples
 
 - [https://github.com/deniskyashif/trydotnet-channels](https://github.com/deniskyashif/trydotnet-channels)
 
