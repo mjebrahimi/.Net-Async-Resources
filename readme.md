@@ -244,8 +244,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 - [Asynchronous streams in C# 8.0](https://blog.miguelbernard.com/asynchronous-streams)
 
+- [gRPC and C# 8 Async stream](https://laurentkempe.com/2019/09/18/gRPC-and-csharp-8-Async-stream/)
 
-
+- [gRPC and C# 8 Async stream cancellation](https://laurentkempe.com/2019/09/25/gRPC-and-csharp-8-Async-stream-cancellation/)
 ## Iterators
 
 ### Articles
@@ -268,7 +269,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### Videos
 
-- [C# Channels Explained (System.Threading.Channels)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=E0Ld7ZgE4oY)
+- [C# Channels Explained (System.Threading.Channels)](https://www.youtube.com/watch?v=E0Ld7ZgE4oY)
 
 - [Working with Channels in .NET](https://channel9.msdn.com/Shows/On-NET/Working-with-Channels-in-NET)
 
