@@ -1,5 +1,10 @@
 # 🎨 Awesome .Net Async [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+![Twitter URL](https://img.shields.io/badge/-@mehdi_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff) 
+[![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square)](https://dotnetuniversity.com/https://dotnetuniversity.com/)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
+[![HitCount](http://hits.dwyl.com/mehdihadeli/awesome-dotnet-async.svg?style=flat-square)](http://hits.dwyl.com/mehdihadeli/awesome-dotnet-async)
+
 
 Collection of useful articles and resources to learning and practicing about async, threading, and channels in .Net platform. this repository will be updated continuously, keep yourself up to date 😉
 
@@ -119,7 +124,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📹 Videoes
 
-- [Understanding how to use Task and ValueTask](https://www.youtube.com/watch?v=fj-LVS8hqIE)
+- [Understanding how to use Task and ValueTask](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=fj-LVS8hqIE)
 
 
 ## Configure Await
@@ -269,7 +274,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 📹 Videoes
 
-- [C# Channels Explained (System.Threading.Channels)](https://www.youtube.com/watch?v=E0Ld7ZgE4oY)
+- [C# Channels Explained (System.Threading.Channels)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=E0Ld7ZgE4oY)
 
 - [Working with Channels in .NET](https://channel9.msdn.com/Shows/On-NET/Working-with-Channels-in-NET)
 
